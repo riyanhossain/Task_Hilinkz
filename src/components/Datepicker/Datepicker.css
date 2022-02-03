@@ -1,0 +1,14 @@
+.react-datepicker-ignore-onclickoutside{
+    border-radius:0rem !important;
+    background: #f6f8fc !important;
+    border-bottom: 2px solid gray !important;
+    border: none;
+}
+.datePicker input{
+    background-color: #f6f8fc !important;
+    border-bottom: 2px solid gray !important;
+    border: none;
+    width: 100% !important;
+    padding: 6.5px;
+
+}
